@@ -12,4 +12,4 @@ public class Main {
     }
 }
 
-//Förstog inte riktgit med att skriva ut med setters?
+

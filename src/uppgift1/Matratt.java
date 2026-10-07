@@ -5,9 +5,9 @@ public class Matratt {
     String name;
     int price;
     int calories;
-    String typ;
+    MatTyp typ;
 
-    public Matratt(String name, int price, int calories, String typ) {
+    public Matratt(String name, int price, int calories, MatTyp typ) {
         this.name = name;
         this.price = price;
         this.calories = calories;
